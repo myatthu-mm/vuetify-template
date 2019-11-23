@@ -1,4 +1,4 @@
-# todo-app
+# vuetify-template
 
 ## Project setup
 ```
